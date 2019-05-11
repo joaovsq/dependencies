@@ -1,2 +1,3 @@
-# mystery-dependencies
-the mystery project dependencies
+# dependencies
+
+useful c++ dependencies
